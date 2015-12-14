@@ -3,21 +3,22 @@ A curated list of amazingly awesome [WordPress](https://wordpress.org/) resource
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 # News
-* https://managewp.org/  
+* https://managewp.org/    
 * http://wptavern.com/  
-* http://torquemag.io/
-* http://wplift.com  
+* http://torquemag.io/  
+* http://wplift.com/  
+* https://poststatus.com/  
 
 # Developer/Designer/Freelancer
 * https://chrislema.com/  
-* https://tommcfarlin.com  
+* https://tommcfarlin.com/  
 * https://pippinsplugins.com/blog/  
-* http://www.remicorson.com  
+* http://www.remicorson.com/  
 
 # Learning
 * http://code.tutsplus.com/categories/wordpress  
 * http://www.lynda.com/WordPress-training-tutorials/330-0.html
-* http://www.wpbeginner.com  
+* http://www.wpbeginner.com/  
 * http://www.smashingmagazine.com/category/wordpress/
 
 # Management Hosting
