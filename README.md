@@ -1,5 +1,6 @@
 # Awesome-WordPress
-A curated list of amazingly awesome WordPress resources
+A curated list of amazingly awesome [WordPress](https://wordpress.org/) resources  
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 # News
 * https://managewp.org/  
@@ -14,10 +15,11 @@ A curated list of amazingly awesome WordPress resources
 
 # Learning
 * http://code.tutsplus.com/categories/wordpress  
+* http://www.lynda.com/WordPress-training-tutorials/330-0.html
 * http://www.wpbeginner.com  
 
 # Management Hosting
-* http://www.cloudways.com/en/  
+* http://www.cloudways.com/  
 * https://wpengine.com/  
 * https://pagely.com/  
 
