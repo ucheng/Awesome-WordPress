@@ -5,6 +5,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 # News
 * https://managewp.org/  
 * http://wptavern.com/  
+* http://torquemag.io/
 * http://wplift.com  
 
 # Developer/Designer/Freelancer
