@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://www.cloudways.com/  
 * https://wpengine.com/  
 * https://pagely.com/  
+* https://kinsta.com/  
 
 # Starter Theme
 * http://underscores.me/  
