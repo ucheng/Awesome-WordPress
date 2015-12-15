@@ -2,12 +2,13 @@
 A curated list of amazingly awesome [WordPress](https://wordpress.org/) resources  
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-# News
+# News/Podcast/Interview
 * https://managewp.org/    
 * http://wptavern.com/  
 * http://torquemag.io/  
 * http://wplift.com/  
 * https://poststatus.com/  
+* http://applyfilters.fm/
 
 # Developer/Designer/Freelancer
 * https://chrislema.com/  
@@ -15,7 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * https://pippinsplugins.com/blog/  
 * http://www.remicorson.com/  
 
-# Learning
+# Learning/Tutorials
 * http://code.tutsplus.com/categories/wordpress  
 * http://www.lynda.com/WordPress-training-tutorials/330-0.html
 * http://www.wpbeginner.com/  
