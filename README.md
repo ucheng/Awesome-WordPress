@@ -2,7 +2,7 @@
 A curated list of amazingly awesome [WordPress](https://wordpress.org/) resources  
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-# News/Podcast/Interview
+# News/Podcasts/Interviews
 * https://managewp.org/    
 * http://wptavern.com/  
 * http://torquemag.io/  
