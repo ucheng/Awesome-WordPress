@@ -6,15 +6,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * https://managewp.org/    
 * http://wptavern.com/  
 * http://torquemag.io/  
+* http://www.wpexplorer.com/  
 * http://wplift.com/  
 * https://poststatus.com/  
 * http://applyfilters.fm/
 
-# Developer/Designer/Freelancer
+# Developers/Designers/Freelancers  
 * https://chrislema.com/  
 * https://tommcfarlin.com/  
 * https://pippinsplugins.com/blog/  
 * http://www.remicorson.com/  
+* http://justintadlock.com/  
+* http://ottopress.com/  
+* https://ahmadawais.com/    
 
 # Learning/Tutorials
 * http://code.tutsplus.com/categories/wordpress  
