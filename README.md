@@ -18,7 +18,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://www.remicorson.com/  
 * http://justintadlock.com/  
 * http://ottopress.com/  
-* https://ahmadawais.com/    
+* https://ahmadawais.com/   
+* https://tomjn.com/
 
 # Learning/Tutorials
 * http://code.tutsplus.com/categories/wordpress  
