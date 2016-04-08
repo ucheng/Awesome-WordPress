@@ -22,11 +22,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * https://tomjn.com/
 * http://joshpress.net/
 
-# Learning/Tutorials
+# Learning/Tutorials/Courses
 * http://code.tutsplus.com/categories/wordpress  
 * http://www.lynda.com/WordPress-training-tutorials/330-0.html
 * http://www.wpbeginner.com/  
 * http://www.smashingmagazine.com/category/wordpress/
+* http://wpsessions.com/
 
 # Management Hosting
 * http://www.cloudways.com/  
