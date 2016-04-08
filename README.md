@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * http://www.wpbeginner.com/  
 * http://www.smashingmagazine.com/category/wordpress/
 * http://wpsessions.com/
+* http://bobwp.com/
 
 # Management Hosting
 * http://www.cloudways.com/  
