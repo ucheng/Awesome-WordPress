@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * https://ahmadawais.com/   
 * https://tomjn.com/
 * http://joshpress.net/
+* http://jeroensormani.com/  
 
 # Learning/Tutorials/Courses
 * http://code.tutsplus.com/categories/wordpress  
