@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * https://www.kathyisawesome.com/
 * https://gregrickaby.com/
 * https://calebburks.com/  
+* https://markoheijnen.com/
 
 # Learning/Tutorials/Courses
 * http://code.tutsplus.com/categories/wordpress  
